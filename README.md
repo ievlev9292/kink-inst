@@ -16,11 +16,13 @@ If you use this code in academic work, please cite [1].
 ## Package contents:
 - `mstb.nb`: computations for the MSTB model discussed in [1], such as checks of the superpotential, fermionic zero modes, etc.
 - `heavy_plots.nb`: various 2d and 3d plots.
+- `n2susy.nb`: some computations for the models with extended supersymmetry.
 
 ## Instructions
 - Note: each file may take several minutes to run.
 - First, run `mstb.nb`. It will create a subfolder `data` for storing the plots, as well as some other results of the computation used in the other file.
 - Then, run `heavy_plots.nb`.
+- `n2susy.nb` is independent and can be run at any time.
 
 
 
